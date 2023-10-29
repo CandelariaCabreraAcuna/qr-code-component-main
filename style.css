@@ -49,8 +49,3 @@ img{
     height: 330px;
     border-radius: 14px;
 }
-@media(min-width: 400px){
-    .container{
-        width: 375px;
-    }
-}
